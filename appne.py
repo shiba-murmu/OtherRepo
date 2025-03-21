@@ -10,3 +10,5 @@ with open('text.txt' , 'r') as file:
         time.sleep(2)
         print(line , end='')
         line = file.readline()
+        
+# main of the thematics for the management of the time.
